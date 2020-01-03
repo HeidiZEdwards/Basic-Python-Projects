@@ -1,0 +1,18 @@
+Absolute path is: 
+C:\Users\Heidi\Documents\GitHub\Python_Projects\Python_Drill.py
+Files and directories in ' C:\Users\Heidi\Documents\GitHub\Python_Projects ' :
+['assignment.py', 'doc_10.txt', 'doc_6.txt', 'doc_7.py', 'doc_8.txt', 'doc_9.txt', 'Hello.txt', 'Hello2.txt', 'Hello_World.txt', 'Python_Drill.py']
+Last modification:  Fri Jan  3 09:17:04 2020 doc_10.txt
+Last modification:  Fri Jan  3 09:15:21 2020 doc_6.txt
+Last modification:  Fri Jan  3 09:16:00 2020 doc_8.txt
+Last modification:  Fri Jan  3 09:16:38 2020 doc_9.txt
+Last modification:  Thu Jan  2 13:49:39 2020 Hello.txt
+Last modification:  Thu Jan  2 13:50:12 2020 Hello2.txt
+Last modification:  Fri Jan  3 09:11:39 2020 Hello_World.txt
+1578071824.7655053 .\doc_10.txt
+1578071721.1556087 .\doc_6.txt
+1578071760.2029073 .\doc_8.txt
+1578071798.3748443 .\doc_9.txt
+1578001779.750151 .\Hello.txt
+1578001812.5452766 .\Hello2.txt
+1578071499.499871 .\Hello_World.txt
